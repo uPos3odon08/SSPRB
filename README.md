@@ -23,6 +23,6 @@ Setup:
 10. after having ran the cd command enter "python3 Main.py" to run the script
 
 
-and that's it, to exit press ctrl+c
+ and that's it, to exit press ctrl+c
 
-The script works by gathering the info specified in the script from Reddit's api called PRAW
+ The script works by gathering the info specified in the script from Reddit's api called PRAW
