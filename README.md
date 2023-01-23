@@ -19,7 +19,7 @@ Setup:
 
 8. in CMD or the terminal run "cd SubredditMemberCounter"
 
-9. run "pip -R install Requirements.txt" in CMD or the Terminal
+9. run "pip -r install Requirements.txt" in CMD or the Terminal
 
 10. after having ran the cd command enter "python3 Main.py" to run the script
 
