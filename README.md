@@ -21,7 +21,7 @@ Setup:
 
 9. run "pip -r install requirements.txt" in CMD or the Terminal
 
-10. after having ran the cd command enter "python3 Main.py" to run the script
+10. after having ran the cd command enter "python3 main.py" to run the script
 
 ----and that's it, to exit press ctrl+c
 
