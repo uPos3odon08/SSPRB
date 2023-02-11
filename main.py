@@ -1,13 +1,6 @@
 import praw
 import time
-from config import stalksub
-from config import PostOnSub
-from config import ClientId
-from config import ClientSecret
-from config import PWD
-from config import UserAgent
-from config import UserName
-from config import BOTMSG
+from config import *
 from datetime import datetime
 
 while True: 
